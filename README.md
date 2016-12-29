@@ -1,0 +1,2 @@
+# mypot
+Werewolf wechat app
